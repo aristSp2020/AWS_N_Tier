@@ -1,0 +1,11 @@
+#terraform.backend: configuration cannot contain interpolations
+terraform {
+  required_version = ">= 0.12.25"
+
+  backend "s3" {
+    encrypt = true
+    bucket  = format(var.tags[project]"-terraform-state")
+    key     = "meta/terraform_meta.tfstate"
+    region  = var.region
+  }
+}
