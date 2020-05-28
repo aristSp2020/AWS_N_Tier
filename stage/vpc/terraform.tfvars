@@ -1,0 +1,7 @@
+
+ami = {
+     oracle7   = "ami-01769fe1968beef75"
+
+}
+
+key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDar7AnL2sb9un+o9cBnJ2yRAVXExvvEhFjeU1wEFb9YQbmdmjeP2YsBJX0+OfFS9xoad54BYXrNfVbmAI71lNPCFag0becsLTP4yDKl/ckD9kDzWvH/nKkILsrpmAfI1Yu06vum8IjzNt/lCjp3gZAokZxe5DsfbpUxugzJHTRavLrYYWoDR7i6vsfGXsvvhkBLl7MgrTl3nvl0sE2ekYtsswYQJ9nE0Srog5TdWhRxTkpwdQ6LDX5rhPT9fQKfQMeVZmIcSEbBw6hxkpH5kUYQOe7DQSTPfHPSjPC+/Ccyot/ULnVD/bhI2UMSXj+CtmBGocXbcvGW1TEA3rT05cz"
